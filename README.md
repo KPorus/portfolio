@@ -17,6 +17,8 @@ Welcome to my portfolio! This is the new version of my portfolio, created using 
 
 You can view my portfolio by following this link: [View Portfolio](https://idyllic-empanada-3f941d.netlify.app/)
 
+Here is the older version of my portfolio you can check it: [View Older Portfolio](https://singular-mooncake-bead22.netlify.app/).
+
 ## Contact
 
 Feel free to reach out if you have any questions or would like to collaborate. You can contact me at [mdfardinkhan1952@gmail.com](mailto:mdfardinkhan1952@gmail.com).

@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! This is the new version of my portfolio, created using Kaboom.js and Tiled software for map creation. Below you will find more details about the technologies used and how to explore the portfolio.
+Welcome to my portfolio! This is the new version of my portfolio, created using Kaboom.js and Tiled software for map creation. I've included more details below about the technologies used and how to explore the portfolio.
 
 ## Technologies Used
 

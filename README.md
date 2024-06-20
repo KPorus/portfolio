@@ -15,11 +15,11 @@ Welcome to my portfolio! This is the new version of my portfolio, created using 
 
 ## How to View
 
-You can view my portfolio by following this link: [View Portfolio](https://your-portfolio-link.com)
+You can view my portfolio by following this link: [View Portfolio](https://idyllic-empanada-3f941d.netlify.app/)
 
 ## Contact
 
-Feel free to reach out if you have any questions or would like to collaborate. You can contact me at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out if you have any questions or would like to collaborate. You can contact me at [mdfardinkhan1952@gmail.com](mailto:mdfardinkhan1952@gmail.com).
 
 ---
 
